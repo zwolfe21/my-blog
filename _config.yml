@@ -1,4 +1,4 @@
-theme: minima
+remote_theme: jekyll/minima
   skin: dark
 layout: home
 title: Thoughts of The Day config test sentence.

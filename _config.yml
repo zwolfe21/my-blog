@@ -1,4 +1,5 @@
 theme: minima
+  skin: dark
 layout: home
 title: Thoughts of The Day config test sentence.
 author: Z. Wolfe

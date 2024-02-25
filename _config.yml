@@ -1,4 +1,4 @@
-theme: minima
+remote_theme: pages-themes/modernist@v0.2.0
 title: Thoughts of The Day
 author: Z. Wolfe
 description: Just my Thoughts...

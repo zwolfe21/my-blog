@@ -1,4 +1,4 @@
 ---
-title: Thoughts of The Day
+title: index.md test sentence
 ---
 

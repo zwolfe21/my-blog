@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Thoughts of The Day
 ---
 
